@@ -27,13 +27,21 @@ BASIC DESIGN SPECIFICATION
 • The device can be powered by a rechargeable battery.
 
 HARDWARE COMPONENT FOR BASIC DESIGN
+
 • Node Mcu microcontroller
+
 • ECG sensor
+
 • Pulse oximeter
+
 • Thermometer
+
 • ESP 32 WIFI Module
+
 • Temperature humidity sensor
-• OLED Display.
+
+• OLED Display
+
 • Power supply
 
 INTENDED MARKET SEGMENT
