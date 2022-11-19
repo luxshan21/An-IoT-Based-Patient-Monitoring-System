@@ -52,7 +52,7 @@ consistent monitoring of patient’s health state.
 • This product is expected to be introduced to the global market, since it solves a most common 
 problem all around the world.
 
-APPLICABILITY OF PRODUCT
+APPLICABILITY OF PRODUCTs
 
 • Problem defined above is a common issue among all the people in this modern world. And there 
 were also smart devices which can provide health data of individuals commercially available in 
