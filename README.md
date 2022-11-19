@@ -61,3 +61,8 @@ monitoring, make the product a portable and wearable device and also make health
 on an online platform. Therefore, our product applies to the global market.
 
 ![IOT_1](https://user-images.githubusercontent.com/81348451/201464072-65273e20-5626-4d1c-92ed-cbd46e38b005.jpeg)
+
+ENCLOSURE DESIGN
+
+![smile_top](https://user-images.githubusercontent.com/81348862/202859467-300d21f2-e703-4c83-bdd9-76ec88b27778.png)
+
