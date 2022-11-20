@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '113990105'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Seeed Studio", "113990105" (!) = "", "113990105", "Other", "713-113990105", "https://www.mouser.co.uk/ProductDetail/Seeed-Studio/113990105?qs=SElPoaY2y5KMx8k1roAIKw%3D%3D", "113990105", "https://www.arrow.com/en/products/113990105/seeed-technology-limited?region=nac", "", "", "NodeMCU DEVKIT V1.0", "https://www.seeedstudio.com/NodeMCU-v2-Lua-based-ESP8266-development-kit.html", "7.35 mm"
+END_PART
+
+END.
