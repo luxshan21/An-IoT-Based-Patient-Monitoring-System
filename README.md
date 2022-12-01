@@ -1,4 +1,4 @@
-# An-IoT-Based-Patient-Monitoring-System (Smile) 
+# An-IoT-Based-Patient-Monitoring-System (Smile) with RNN
               
               
 PROBLEM DEFINED
@@ -19,6 +19,8 @@ FUNCTIONALITY
 data like body temperature, Heart rate, SPO2 level and ECG reading. In addition to that system can measure 
 the room temperature, humidity and air quality of the patient’s surrounding environment. All these patient 
 data are made available in an online platform to have easy access for the caretaker.
+• We planned to use Machine learning algorithms and cloud data to detect the anomaly activities in the ECG graph and alert the 
+doctor about the patient's health.
 
 BASIC DESIGN SPECIFICATION
 
